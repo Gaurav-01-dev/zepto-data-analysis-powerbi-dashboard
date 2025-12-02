@@ -1,5 +1,11 @@
 Zepto Sales Performance Dashboard – Power BI
 
+🔗 Live Dashboard Link (Power BI)
+You can view the published interactive dashboard here:
+https://app.powerbi.com/view?r=eyJrIjoiMGExNmMyNDEtMWE0ZS00MzVmLTg0ZWYtNzNhODFmNTQ1M2JkIiwidCI6IjU5MzQzNWNmLTA5YTgtNGU1MS05ZDM4LTE3ODE3NTAyOWUxOCJ9
+
+Note: This link may expire in the future because Power BI published links depend on subscription availability.
+
 This project is a Power BI dashboard built using a Zepto-style retail dataset. The goal was to understand overall sales performance, customer behaviour, and how different product categories and outlet types contribute to revenue.
 
 Overview
